@@ -1,6 +1,7 @@
 #####################################################################################################
 ### Example use of USGS LCMAP (Land Change Monitoring, Assessment, and Projection) data 
 ### https://www.usgs.gov/special-topics/lcmap
+### https://pubs.usgs.gov/fs/2020/3024/fs20203024.pdf 
 ### ...and use of OpenLand package
 ### https://cran.r-project.org/web/packages/OpenLand/vignettes/openland_vignette.html
 #####################################################################################################
